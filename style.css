@@ -1,0 +1,57 @@
+h1{
+    background-color: rgba(83, 228, 15, 0.3);
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border: 1px solid #000;
+}
+
+.dieu-huong{
+    display: flex;
+    background-color: rgb(173, 12, 0);
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.dieu-huong a{
+    margin-right: 30px;
+    color: white;
+}
+
+.khoi-3{
+    display: flex;
+}
+
+.links{
+    flex-basis: 30%;
+    background-color: blue;
+    display: flex;
+    flex-direction: column;
+}
+
+.button-group{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.links a{
+    color: white;
+    width: 80%;
+    padding: 10px;
+    background-color: teal;
+    margin-bottom: 10px;
+}
+
+.content{
+    flex-basis: 70%;
+    padding: 30px;
+
+}
+
+
+/*
+id: dung dau #
+class: dau .
+
+
+*/
